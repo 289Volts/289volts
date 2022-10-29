@@ -16,10 +16,12 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with learning Javascript.
 
 - 📫 How to reach me:  
-&nbsp; &nbsp; &nbsp; &nbsp;  GitHub - [289volts](https://www.github.com/289volts)  
+
+&nbsp; &nbsp; &nbsp; &nbsp;  Email - [289volts#gmail.com](289volts@gmail.com)
 &nbsp; &nbsp; &nbsp; &nbsp;  Twitter - [@289volts](https://www.twitter.com/289volts)  
 &nbsp; &nbsp; &nbsp; &nbsp;  LinkedIn - [Joshua Roland](https://www.linkedin.com/in/Joshua-Roland)  
 &nbsp; &nbsp; &nbsp; &nbsp;  WhatsApp - [+2348149326216](https://wa.me/2348149326216)
+&nbsp; &nbsp; &nbsp; &nbsp;  Email - [+2348149326216](https://wa.me/2348149326216)
 
 - ⚡ Fun fact: I love watching stuff blow up on YouTube.
 
