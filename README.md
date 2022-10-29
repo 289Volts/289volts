@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 - 🤔 I’m looking for help with learning Javascript.
 
-- 📫 How to reach me: 
+- 📫 How to reach me:  
 &nbsp; &nbsp; &nbsp; &nbsp;  GitHub - [289volts](https://www.github.com/289volts)  
 &nbsp; &nbsp; &nbsp; &nbsp;  Twitter - [@289volts](https://www.twitter.com/289volts)  
 &nbsp; &nbsp; &nbsp; &nbsp;  LinkedIn - [Joshua Roland](https://www.linkedin.com/in/Joshua-Roland)  
