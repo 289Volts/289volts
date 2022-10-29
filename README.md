@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me:  
 
-&nbsp; &nbsp; &nbsp; &nbsp;  Email - [289volts#gmail.com](289volts@gmail.com)
+&nbsp; &nbsp; &nbsp; &nbsp;  Email - [289volts@gmail.com](mailto:289volts@gmail.com)  
 &nbsp; &nbsp; &nbsp; &nbsp;  Twitter - [@289volts](https://www.twitter.com/289volts)  
 &nbsp; &nbsp; &nbsp; &nbsp;  LinkedIn - [Joshua Roland](https://www.linkedin.com/in/Joshua-Roland)  
 &nbsp; &nbsp; &nbsp; &nbsp;  WhatsApp - [+2348149326216](https://wa.me/2348149326216)
