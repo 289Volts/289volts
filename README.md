@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🔭 I work with NextJS, Sanity, TailwindCss, Framer-motion, GSAP, Docker, Firebase, MongoDB, NodeJS, APIs.
 - I am a buff for accessibility and inclusivity because i believe that the web should be used by 'all' irrespective of the circumstances.
 - Because I am concerned about helping my clients get the online visibility and good user experience that they require, I develop pixel perfect designs which are accessible and SEO optimized. 
-- 👯 I’m looking to collaborate on Frontend Projects that are either paid and unpaid. I’m also looking for paid or unpaid internship opportunities where i can improve on my skills and have real world work experience
+- 👯 I’m looking to collaborate on Frontend Projects.
 
 - 📫 How to reach me:  
 
