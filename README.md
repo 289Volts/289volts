@@ -15,9 +15,11 @@ Here are some few things about me:
 - 📫 How to reach me:  
 
 &nbsp; &nbsp; &nbsp; &nbsp;  Email - [joshuaroland289@gmail.com](mailto:joshuaroland289@gmail.com)  
-&nbsp; &nbsp; &nbsp; &nbsp;  Twitter - [@289volts](https://www.twitter.com/289volts)  
+&nbsp; &nbsp; &nbsp; &nbsp;  Twitter - [@289volts](https://www.twitter.com/_289volts)  
 &nbsp; &nbsp; &nbsp; &nbsp;  LinkedIn - [Joshua Roland](https://www.linkedin.com/in/JoshuaRoland)  
 &nbsp; &nbsp; &nbsp; &nbsp;  WhatsApp - [+2348124879938](https://wa.me/2348124879938)
 
 - ⚡ Fun fact: I love watching cat videos on YouTube.
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=289volts)](https://git.io/streak-stats)
 
