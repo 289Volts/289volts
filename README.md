@@ -21,5 +21,3 @@ Here are some few things about me:
 
 - ⚡ Fun fact: I love watching cat videos on YouTube.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=289volts)](https://git.io/streak-stats)
-
