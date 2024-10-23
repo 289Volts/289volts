@@ -1,16 +1,19 @@
 
 ### Hi there 👋
 
-Welcome to my GitHub profile.
-
 ## My name is Joshua Roland but you can call me **Volts, 289volts :zap:**
 
 Here are some few things about me:
 
+- I have a strong interest in web accessibility because i believe that the web should be used by 'all' irrespective of the circumstances.
 - 🔭 I work with NextJS, Sanity, TailwindCss, Framer-motion, GSAP, Docker, Firebase, MongoDB, NodeJS, REST APIs.
-- I have a strong interest in web accessibility and inclusivity because i believe that the web should be used by 'all' irrespective of the circumstances.
-- Because I am concerned about helping my clients get the online visibility and good user experience that they require, I develop websites which are accessible and SEO optimized. 
-- 👯 I’m open to collaborating on Frontend Projects.
+
+My expertise includes;
+- development of accessible and SEO optimized websites.
+- accessibility audit of website and apps.
+- development of performant web apps focused on revenue generation.
+
+- 👯 I’m currently open to work on frontend related projects.
 
 - 📫 How to reach me:  
 
